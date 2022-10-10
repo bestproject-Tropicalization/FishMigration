@@ -1,7 +1,7 @@
 # FishMigration
-##Fish larval dispersal and changing thermal boundaries - Tropicalisation
+## Fish larval dispersal and changing thermal boundaries - Tropicalisation
 
-##Hypothesis: Geographic larval dispersal is dependent upon optimal thermal boundaries and currents.
+## Hypothesis: Geographic larval dispersal is dependent upon optimal thermal boundaries and currents.
 
 
 $ git commit -m "Refactor usability tests.
